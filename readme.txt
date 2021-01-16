@@ -16,3 +16,5 @@ Sources
 -                https://pandas.pydata.org/pandas-docs/stable/reference/frame.html
 -	docs.python.org/3/library/datetime.html#strftime-and-strptime-behavior
 -	stackoverflow.com
+
+The first edit on readme
