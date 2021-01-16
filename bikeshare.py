@@ -7,7 +7,6 @@ CITY_DATA = {'chicago': 'chicago.csv',
              'washington': 'washington.csv'}
 
 # # adding line for github modification
-# # adding line for github modification-2
 
 def get_filters():
     """
