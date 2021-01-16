@@ -22,3 +22,4 @@ The second edit on readme
 The third edit on readme
 
 add line in README.txt
+add line-2 in readme.tdxt
